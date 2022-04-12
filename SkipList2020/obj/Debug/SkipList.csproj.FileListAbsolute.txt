@@ -1,0 +1,6 @@
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\bin\Debug\SkipList2020.dll
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\bin\Debug\SkipList2020.pdb
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\obj\Debug\SkipList.csproj.AssemblyReference.cache
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\obj\Debug\SkipList.csproj.CoreCompileInputs.cache
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\obj\Debug\SkipList2020.dll
+C:\Users\ZeroSector\Desktop\SkipListForStudents\SkipList2020\obj\Debug\SkipList2020.pdb

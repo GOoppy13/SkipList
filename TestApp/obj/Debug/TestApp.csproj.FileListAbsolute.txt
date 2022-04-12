@@ -1,0 +1,10 @@
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\bin\Debug\TestApp.exe
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\bin\Debug\TestApp.pdb
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\obj\Debug\TestApp.exe
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\obj\Debug\TestApp.pdb
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\bin\Debug\SkipList2020.dll
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\bin\Debug\SkipList2020.pdb
+C:\Users\ZeroSector\Desktop\SkipListForStudents\TestApp\obj\Debug\TestApp.csproj.CopyComplete
